@@ -1,11 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Grebenschikov Maxim
 ===========================================================================================================================================
 
-I'm a Frontend Developer (JavaScropt)
+I'm a Junior Frontend Developer (JavaScropt)
 -------------------------------------
 
 * 🌍  I'm based in Bishkek
 * ✉️  You can contact me at [maksonster99@gmail.com](mailto:maksonster99@gmail.com)
+* ✏️  I've finished a learning course from Hexlet, and now I'm looking for a job.
+
+### My CV:
+
+https://cv.hexlet.io/ru/resumes/3149
+
+You can check repositories of my finished projects at the top of this page.
 
 ### Skills
 
@@ -17,4 +24,7 @@ I'm a Frontend Developer (JavaScropt)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/MaxGre99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/MaxGre99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+</p>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_gre)
