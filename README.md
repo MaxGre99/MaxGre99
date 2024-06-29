@@ -8,9 +8,7 @@ I'm a Middle Frontend Developer
 * ✉️  You can contact me at [grebenshikovmaxim181199@gmail.com](mailto:grebenshikovmaxim181199@gmail.com)
 * ✏️  I've finished 3 commercial projects and now looking for a new one ;)
 
-### My CV:
-
-[https://cv.hexlet.io/ru/resumes/3149](https://drive.google.com/file/d/1Tq8eO5hJWYMVhW_C-8rfrhnUKWtDRuqG/view)
+###[My CV](https://drive.google.com/file/d/1Tq8eO5hJWYMVhW_C-8rfrhnUKWtDRuqG/view)
 
 Commercial projects were for NDA, so now you can check only my pet and test projects in repositories.
 
@@ -27,4 +25,4 @@ Commercial projects were for NDA, so now you can check only my pet and test proj
 <p align="left"> <a href="https://www.github.com/MaxGre99" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)[t.me/max_gre](https://t.me/Maxim_Gre))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Maxim_Gre)
