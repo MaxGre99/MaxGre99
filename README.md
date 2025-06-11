@@ -6,13 +6,13 @@ I'm a Middle Frontend Developer
 
 * 🌍  I'm based in Bishkek
 * ✉️  You can contact me at [grebenshikovmaxim181199@gmail.com](mailto:grebenshikovmaxim181199@gmail.com)
-* ✏️  I've finished 3 commercial projects and now looking for a new one ;)
+* ✏️  I've finished 4 commercial projects and now looking for a new one ;)
 
 ### My CV:
 🇷🇺 [Russian](https://drive.google.com/file/d/1Tq8eO5hJWYMVhW_C-8rfrhnUKWtDRuqG/view)
 🇬🇧 [English](https://docs.google.com/document/d/1V6Rsi-7Lx6-WVuhUri5fTR7pfAgOePCqHv4HSL-sncg/edit)
 
-Commercial projects were for NDA, so now you can check only my pet and test projects in repositories.
+Commercial projects were for NDA and located on GitLab, so now you can check only my pet and test projects in repositories.
 
 ### Skills
 
