@@ -9,8 +9,8 @@ I'm a Middle Frontend Developer
 * ✏️  I've finished 4 commercial projects and now looking for a new one ;)
 
 ### My CV:
-🇷🇺 [Russian](https://drive.google.com/file/d/1Tq8eO5hJWYMVhW_C-8rfrhnUKWtDRuqG/view)
-🇬🇧 [English](https://docs.google.com/document/d/1V6Rsi-7Lx6-WVuhUri5fTR7pfAgOePCqHv4HSL-sncg/edit)
+🇷🇺 [Russian](https://drive.google.com/file/d/1MZRk4SMcOGVNvVR-1A-OO6igBFWQEZhG/view?usp=sharing)
+🇬🇧 [English](https://drive.google.com/file/d/1UEH0v59UsebER5hEMvAsG8PtIzBNEFSa/view?usp=sharing)
 
 Commercial projects were for NDA and located on GitLab, so now you can check only my pet and test projects in repositories.
 
