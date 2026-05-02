@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Grebenschikov Maxim
 ===========================================================================================================================================
 
-I'm a Middle Frontend Developer with almost 5 years of commercial expirience
+I'm a Middle Frontend Developer with almost 5 years of commercial experience
 -------------------------------------
 
 * 🌍  I'm based in Bishkek, Kyrgyzstan
