@@ -29,36 +29,36 @@ Commercial projects were for NDA and located on GitLab, so now you can check onl
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="margin:4px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" style="display:inline-block;" alt="Bootstrap" />
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" alt="Bootstrap" />
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" style="display:inline-block;" alt="Redux" />
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" alt="Redux" />
   </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" style="display:inline-block;" alt="Webpack" />
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" alt="Webpack" />
   </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" style="display:inline-block;" alt="Babel" />
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" alt="Babel" />
   </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" style="display:inline-block;" alt="Sass" />
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" alt="Sass" />
   </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" style="display:inline-block;" alt="Render" />
+  <a href="https://render.com/" target="_blank" rel="noreferrer" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" alt="Render" />
   </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" style="display:inline-block;" alt="Linux" />
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" alt="Linux" />
   </a>
 </p>
 
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/MaxGre99"  style="margin:4px;" >
+  <a href="https://www.github.com/MaxGre99"  style="margin:4px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
   </a>
-  <a href="https://t.me/Maxim_Gre" target="_blank" rel="noreferrer" style="margin:4px;" >
+  <a href="https://t.me/Maxim_Gre" target="_blank" rel="noreferrer" style="margin:4px;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
