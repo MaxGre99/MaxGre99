@@ -21,34 +21,34 @@ Commercial projects were for NDA and located on GitLab, so now you can check onl
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" style="display:inline-block;" alt="JavaScript" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" style="display:inline-block;" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" style="display:inline-block;" alt="HTML5" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" style="display:inline-block;" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" style="display:inline-block;" alt="React" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" style="display:inline-block;" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" style="display:inline-block;" alt="CSS3" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" style="display:inline-block;" alt="Bootstrap" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" style="display:inline-block;" alt="Bootstrap" />
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" style="display:inline-block;" alt="Redux" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" style="display:inline-block;" alt="Redux" />
   </a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" style="display:inline-block;" alt="Webpack" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" style="display:inline-block;" alt="Webpack" />
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" style="display:inline-block;" alt="Babel" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" style="display:inline-block;" alt="Babel" />
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" style="display:inline-block;" alt="Sass" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" style="display:inline-block;" alt="Sass" />
   </a>
   <a href="https://render.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" style="display:inline-block;" alt="Render" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" style="display:inline-block;" alt="Render" />
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" style="display:inline-block;" alt="Linux" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" style="display:inline-block;" alt="Linux" />
   </a>
 </p>
 
