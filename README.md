@@ -10,7 +10,7 @@ I'm a Middle Frontend Developer with almost 5 years of commercial expirience
 
 ### My CV:
 🇷🇺 [Russian](https://drive.google.com/file/d/1sUkivdMzK6NIgx8JeXQDZcgKhVthFs03/view?usp=sharing)
-EN[English](https://drive.google.com/file/d/1BstpugnpYFUzi_t6UJ6WpYvKBtaJQUsM/view?usp=sharing)
+EN [English](https://drive.google.com/file/d/1BstpugnpYFUzi_t6UJ6WpYvKBtaJQUsM/view?usp=sharing)
 
 Commercial projects were for NDA and located on GitLab, so now you can check only my last freelance project [askp-website](https://github.com/MaxGre99/askp-website), pet and test projects in repositories.
 
@@ -82,10 +82,13 @@ Commercial projects were for NDA and located on GitLab, so now you can check onl
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/MaxGre99"  style="margin:4px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  <a href="https://www.github.com/MaxGre99" style="margin:4px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/webmaxgre/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="https://t.me/Maxim_Gre" target="_blank" rel="noreferrer" style="margin:4px;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram" />
   </a>
 </p>
