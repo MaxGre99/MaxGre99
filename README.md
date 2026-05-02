@@ -58,11 +58,11 @@ Commercial projects were for NDA and located on GitLab, so now you can check onl
 
 ### Socials
 
-<div align="center">
-  <a href="https://www.github.com/MaxGre99">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin: 0 5px;"/>
+<p align="center">
+  <a href="https://www.github.com/MaxGre99" style="display:inline-block; margin: 0 6px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
   </a>
-  <a href="https://t.me/Maxim_Gre">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="margin: 0 5px;"/>
+  <a href="https://t.me/Maxim_Gre" style="display:inline-block; margin: 0 6px;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-</div>
+</p>
