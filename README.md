@@ -53,9 +53,9 @@ Commercial projects were for NDA and located on GitLab, so now you can check onl
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer" style="margin:4px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" />
   </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" style="margin:4px;">
+  <!-- <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" style="margin:4px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" />
-  </a>
+  </a> -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="margin:4px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" />
   </a>
