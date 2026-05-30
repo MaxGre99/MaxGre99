@@ -10,7 +10,7 @@ I'm a Middle Frontend Developer with almost 5 years of commercial experience
 
 ### My CVs
 
-<a href="https://drive.google.com/file/d/1sUkivdMzK6NIxi8JeXQDZcgKhVthFs03/view?usp=sharing" target="_blank" rel="noreferrer" style="margin-left:12px;">
+<a href="https://drive.google.com/file/d/1-yiGEuHq68tmsidzUGJp617_c2MMAUon/view?usp=sharing" target="_blank" rel="noreferrer" style="margin-left:12px;">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" width="24" title="Russian CV" alt="russia-flag" style="margin-left:4px;" />
   Russian
 </a>
