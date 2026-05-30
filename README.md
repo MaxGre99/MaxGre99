@@ -8,9 +8,17 @@ I'm a Middle Frontend Developer with almost 5 years of commercial experience
 * ✉️  You can contact me at [grebenshikovmaxim181199@gmail.com](mailto:grebenshikovmaxim181199@gmail.com)
 * ✏️  I've finished 5 commercial projects and now looking for a new one ;)
 
-### My CV:
-🇷🇺 [Russian](https://drive.google.com/file/d/1sUkivdMzK6NIgx8JeXQDZcgKhVthFs03/view?usp=sharing)
-EN [English](https://drive.google.com/file/d/1BstpugnpYFUzi_t6UJ6WpYvKBtaJQUsM/view?usp=sharing)
+### My CV
+
+<a href="https://drive.google.com/file/d/1sUkivdMzK6NIxi8JeXQDZcgKhVthFs03/view?usp=sharing" target="_blank" rel="noreferrer" style="margin:4px;">
+  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/24/country-4x3/ru.png" width="24" title="Russian CV" alt="russian-flag" />
+  Russian
+</a>
+
+<a href="https://drive.google.com/file/d/1BstpugnpYFUzi_t6UJ6WpYvKBtaJQUsM/view?usp=sharing">
+  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/24/country-4x3/gb.png" width="24" title="English CV" alt="uk-flag"/>
+  English
+</a>
 
 Commercial projects were for NDA and located on GitLab, so now you can check only my last freelance project [askp-website](https://github.com/MaxGre99/askp-website), pet and test projects in repositories.
 
