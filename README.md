@@ -8,14 +8,14 @@ I'm a Middle Frontend Developer with almost 5 years of commercial experience
 * ✉️  You can contact me at [grebenshikovmaxim181199@gmail.com](mailto:grebenshikovmaxim181199@gmail.com)
 * ✏️  I've finished 5 commercial projects and now looking for a new one ;)
 
-### My CV
+### My CVs
 
 <a href="https://drive.google.com/file/d/1sUkivdMzK6NIxi8JeXQDZcgKhVthFs03/view?usp=sharing" target="_blank" rel="noreferrer" style="margin:4px;">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" width="24" title="Russian CV" alt="russia-flag" />
   Russian
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://drive.google.com/file/d/1BstpugnpYFUzi_t6UJ6WpYvKBtaJQUsM/view?usp=sharing">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png" width="24" title="English CV" alt="great-britain-flag"/>
