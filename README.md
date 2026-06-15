@@ -10,12 +10,12 @@ I'm a Middle Frontend Developer with almost 5 years of commercial experience
 
 ### My CVs
 
-<a href="https://drive.google.com/file/d/1-yiGEuHq68tmsidzUGJp617_c2MMAUon/view?usp=sharing" target="_blank" rel="noreferrer" style="margin-left:12px;">
+<a href="https://drive.google.com/file/d/1cqKNdzKyq1PE4uQzQp1fr7dcMmdFqyCt/view?usp=sharing" target="_blank" rel="noreferrer" style="margin-left:12px;">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" width="24" title="Russian CV" alt="russia-flag" style="margin-left:4px;" />
   Russian
 </a>
 
-<a href="https://drive.google.com/file/d/1BstpugnpYFUzi_t6UJ6WpYvKBtaJQUsM/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Js24ygdULkOFxFu07NpWgBF-FntPhyU1/view?usp=sharing" target="_blank" rel="noreferrer" style="margin-left:12px;">
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png" width="24" title="English CV" alt="great-britain-flag" style="margin-left:4px;"/>
   English
 </a>
